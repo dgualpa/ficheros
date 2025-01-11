@@ -1,0 +1,12 @@
+[
+  {"tienda":"amazon.com","ventas":4416,"ranking":1},
+  {"tienda":"tiendaperez.com","ventas":300,"ranking":10},
+  {"tienda":"mercadolibre.com","ventas":2350,"ranking":2},
+  {"tienda":"walmart.com","ventas":2100,"ranking":3},
+  {"tienda":"aliexpress.com","ventas":1800,"ranking":4},
+  {"tienda":"ebay.com","ventas":1600,"ranking":5},
+  {"tienda":"bestbuy.com","ventas":1400,"ranking":6},
+  {"tienda":"costco.com","ventas":1200,"ranking":7},
+  {"tienda":"tiendasejemplo.com","ventas":900,"ranking":8},
+  {"tienda":"garcia.com","ventas":500,"ranking":9}
+]
